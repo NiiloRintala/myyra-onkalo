@@ -1,0 +1,34 @@
+body {
+    background-color:darkslategrey
+}
+
+h1 {
+font-size: 5rem;
+font-family:monospace;
+color:blanchedalmond;
+text-align:center;
+}
+
+    .viljamionihanmyyra {
+        height: 62vh;
+        margin-left:auto;
+        margin-right:auto;
+        display:block;
+        margin: 30px 800px;
+    }
+    .ketus {
+        height: 62vh;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: auto;
+        display: block;
+        margin: 30px 900px;
+    }
+
+    .olipoli {
+        height: 70h;
+        margin-left: auto;
+        margin-right: auto;
+        margin: 1px 750px;
+        display: block;
+    }
